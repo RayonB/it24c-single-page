@@ -194,29 +194,6 @@ top: -5rem;
     padding: 2.57rem;
 }
 
-.links a:hover{
-    scale: 1.2;
-}
-
-.fa-facebook{
-    color: rgb(97, 210, 230);
-}
-
-
-.fa-github{
-    color: rgb(97, 210, 230);
-}
-
-
-
-.fa-envelope{
-    color: rgb(97, 210, 230);
-}
-
-.fa-instagram{
-    color: rgb(97, 210, 230);
-}
-
 .persue h3{
     color: aqua;
     font-size: 1.2rem;
